@@ -176,8 +176,8 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  Notebook: https://funsoul.gitbook.io || fa fa-book
-  GitHub: https://github.com/funsoul || fab fa-github
+  Notebook: https://shuixn.gitbook.io || fa fa-book
+  GitHub: https://github.com/shuixn || fab fa-github
   E-Mail: https://cyanming2016@gmail.com || fa fa-envelope
   Csdn: https://blog.csdn.net/cpainter || fa fa-tags
   #Weibo: https://weibo.com/yourname || fab fa-weibo
@@ -202,7 +202,7 @@ links_settings:
   layout: block
 
 links:
-  # Notebook: https://funsoul.gitbook.io/
+  # Notebook: https://shuixn.gitbook.io/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
